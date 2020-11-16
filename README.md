@@ -39,7 +39,7 @@ Study at least 9 hours a day. Study well, not hard. Take a break every 20 minute
 
 |  |  |
 | :--- | :---: |
-| 📔 **INTERNET** | 🔓 |
+| 📔 [**INTERNET**](https://www.youtube.com/watch?v=9hIQjrMHTv4&list=PLBMwztcziEsmp6JRVubOZKa0IbQdV63Eh) | 🔓 |
 | Internet | 💛 | 
 | The Web | 💛 | 
 | DNS | 🤍 |  
