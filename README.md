@@ -2,7 +2,7 @@
 
 ### IMPORTANT
 
-0. Study log
+0. [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md)
 1. Book Trackers
 2. Course Trackers
 3. Notes
