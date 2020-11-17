@@ -2,7 +2,7 @@
 
 ### IMPORTANT
 
-0. Study logs
+0. Study log
 1. Book Trackers
 2. Course Trackers
 3. Notes
@@ -13,37 +13,42 @@
 [ ] Complete or have at least 3 projects by the end of 2021. \
 [ ] Contribute to Open Source Projects. 
 
-### STUDY SCHEDULE
+### STUDY ROUTINE
 
-Study at least 9 hours a day. Study well, not hard. Take a break every 20 minutes. Take downs notes. Review during the weekends.
+Study at least 9 hours a day. Each day, I'm going to read chapters of books and watch videos while making sure that I'm having fun. If I get tired, I'll take a break. I'll be taking down notes and also review during the weekends. 
 
 ### CALENDAR
 
-**2020: November to February** 
-1. Internet
-2. Frontend
-3. Language
-4. Operating System
-5. Git & Github
-6. Finish at least 7 in the Books Category
+Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
+
+#### 2020: NOV - 2021: FEB  
+Internet | Frontend | Haskell | Operating System | Git & Github | Databases | APIs
+
+#### 2021: MAR - _ 
+Clojure | Databases | APIs | CACHING | WEB SECURITY | _
 
 ---
 
 **LEGENDS:** \
 🔓 Unlocked | 🔒 Locked \
-🤍 Yet to finish | 💛 Finished 
+🤍 Yet to finish | 💚 Finished 
 
 ---
 
-### MODERN BACKEND DEVELOPER | FUNCTIONAL
+### MODERN BACKEND DEVELOPER ROADMAP | FUNCTIONAL
+
+Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap).
+
+**NOTE: Each category is linked to a Youtube playlist containing the videos I have watched. I may include in-depth videos that is optional for you to watch too. Also some topics will be linked to invaluable resources that I've read.**
 
 |  |  |
 | :--- | :---: |
 | 📔 [**INTERNET**](https://www.youtube.com/watch?v=9hIQjrMHTv4&list=PLBMwztcziEsmp6JRVubOZKa0IbQdV63Eh) | 🔓 |
-| Internet | 💛 | 
-| The Web | 💛 | 
-| DNS | 🤍 |  
-| Browsers | 🤍 |
+| Internet | 💚 | 
+| The Web | 💚 | 
+| DNS | 💚 |  
+| DHCP | 💚 |
+| [Browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) | 💚 |
 | Hosting | 🤍 | 
 | HTTP | 🤍 | 
 | 📔 **FRONTEND** | 🔓 |
@@ -177,6 +182,10 @@ Study at least 9 hours a day. Study well, not hard. Take a break every 20 minute
 | :--- | :---: |
 | Functional Programming with Haskell | 🤍 | 
 | The Odin Project | 🤍 | 
+
+---
+
+## 💜 You're welcome to fork this repository and make suggestions.
 
 
 
