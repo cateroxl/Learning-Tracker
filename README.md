@@ -49,7 +49,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | DNS | 💚 |  
 | DHCP | 💚 |
 | [Browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) | 💚 |
-| Hosting | 🤍 | 
+| Hosting | 💚 | 
 | HTTP | 🤍 | 
 | 📔 **FRONTEND** | 🔓 |
 | HTML | 🤍 |
