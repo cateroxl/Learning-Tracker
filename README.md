@@ -160,6 +160,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | Computer Systems: A Programmer's Perspective | 🤍 |
 | **ALGORITHMS AND DATA STRUCTURES** | 🌗 |
 | 🍃 The Algorithm Design Manual | 🤍 |
+| Grokking Algorithms | 🤍 |
 | **MATH for CS** | 🌘 |
 | Mathematics for Computer Science | 🤍 |
 | **OPERATING SYSTEMS** | 🌑 |
@@ -186,6 +187,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | Algorithm Design with Haskell | 🔒 |
 | Parallel and Concurrent Programming in Haskell | 🔒 |
 | Thinking With Types | 🔒 |
+| Functional Design and Architecture in Haskell | 🔒 |
 | **LINUX** | 🔓 |
 | The Linux Command Line | 🤍 | 
 | NixOS | 🔒 |
@@ -209,6 +211,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | :--- | :---: |
 | Functional Programming with Haskell | 🤍 | 
 | The Odin Project | 🤍 | 
+| Teach Yourself CS | 🤍 |
 
 ---
 
