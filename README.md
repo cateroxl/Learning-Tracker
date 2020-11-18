@@ -1,6 +1,10 @@
-# Learning Tracker
+# Learning Tracker✨
+
+In this Learning Tracker, you'll see my progress in The Modern Backend Developer Roadmap and Teach Yourself CS, along with my goals, study routine and calendar. 
 
 ### IMPORTANT
+
+Some trackers will be made soon.
 
 0. [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md)
 1. Book Trackers
@@ -9,13 +13,15 @@
 
 ### GOALS
 
-[ ]  Get a functional programming job by the end of 2021 or early 2022. \
+[ ] Get a functional programming job in early 2022. \
 [ ] Complete or have at least 3 projects by the end of 2021. \
 [ ] Contribute to Open Source Projects. 
 
 ### STUDY ROUTINE
 
-Study at least 9 hours a day. Each day, I'm going to read chapters of books and watch videos while making sure that I'm having fun. If I get tired, I'll take a break. I'll be taking down notes and also review during the weekends. 
+I plan to study for a little more than a year. I believe this to be a great investment because I've always been fascinated in Computer Science and I see myself in it. I want to work with people who wants to make the world a better place through computer technology.  
+
+Each day for ~9 hours, I'm going to read chapters of books and watch videos while making sure that I'm having fun. If I get tired, I'll take a break. I'll be taking down notes and also review during the weekends. 
 
 ### CALENDAR
 
@@ -23,9 +29,6 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 #### 2020: NOV - 2021: FEB  
 Internet | Frontend | Haskell | Operating System | Git & Github | Databases | APIs
-
-#### 2021: MAR - _ 
-Clojure | Databases | APIs | CACHING | WEB SECURITY | _
 
 ---
 
@@ -142,6 +145,34 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 
 ---
 
+### COMPUTER SCIENCE
+
+Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.com/)
+
+**LEGENDS:** \
+🍃 Might be changed
+
+|  |  |
+| :--- | :---: |
+| **PROGRAMMING** | 🌕 |
+| Structure and Interpretation of Computer Programs | 🤍 | 
+| **COMPUTER ARCHITECTURE** | 🌖 |
+| Computer Systems: A Programmer's Perspective | 🤍 |
+| **ALGORITHMS AND DATA STRUCTURES** | 🌗 |
+| 🍃 The Algorithm Design Manual | 🤍 |
+| **MATH for CS** | 🌘 |
+| Mathematics for Computer Science | 🤍 |
+| **OPERATING SYSTEMS** | 🌑 |
+| Operating Systems: Three Easy Pieces | 🤍 |
+| **COMPUTER NETWORKING** | 🌒 |
+| Computer Networking: A Top-Down Approach | 🤍 |
+| **DATABASES** | 🌓 |
+| Readings in Database Systems | 🤍 |
+|  **LANGUAGES AND COMPILERS** | 🌔 |
+| Crafting Interpreters | 🤍 |
+| **DISTRIBUTED SYSTEMS** | 🌕 |
+| Designing Data-Intensive Applications | 🤍 |
+
 ### 📚 BOOKS
 
 |  |  |
@@ -158,11 +189,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | **LINUX** | 🔓 |
 | The Linux Command Line | 🤍 | 
 | NixOS | 🔒 |
-| **MATHEMATICS** | 🔓 |
-| Concrete Mathematics | 🤍 |
 | **OTHER WORKS** | 🔓 |
-| Structure and Interpretation of Computer Programs | 🤍 |
-| Operating Systems: Three Easy Pieces | 🤍 |
 | Domain Modeling Made Functional | 🔒 |
 | The Pragmatic Programmer | 🔒 |
 | Making Software | 🔒 |
