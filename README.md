@@ -7,7 +7,7 @@ In this Learning Tracker, you'll see my progress in The Modern Backend Developer
 Some trackers will be made soon.
 
 0. [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md)
-1. Book Trackers
+1. [Book Trackers](https://github.com/cateroxl/Learning-Tracker/tree/main/Book%20Trackers)
 2. Course Trackers
 3. Notes
 
