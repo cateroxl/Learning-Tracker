@@ -1,4 +1,4 @@
-# Learning Tracker✨
+# LEARNING TRACKER✨
 
 In this Learning Tracker, you'll see my progress in The Modern Backend Developer Roadmap and Teach Yourself CS, along with my goals, study routine and calendar. 
 
@@ -6,15 +6,15 @@ In this Learning Tracker, you'll see my progress in The Modern Backend Developer
 
 Some trackers will be made soon.
 
-0. [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md)
-1. [Book Trackers](https://github.com/cateroxl/Learning-Tracker/tree/main/Book%20Trackers)
-2. Course Trackers
-3. Notes
+🔹 [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md) \
+🔹 [Book Trackers](https://github.com/cateroxl/Learning-Tracker/tree/main/Book%20Trackers) \
+🔹 Course Trackers \
+🔹 Notes
 
 ### GOALS
 
 [ ] Get a functional programming job in early 2022. \
-[ ] Complete or have at least 3 projects by the end of 2021. \
+[ ] Complete or have at least 3 projects. \
 [ ] Contribute to Open Source Projects. 
 
 ### STUDY ROUTINE
@@ -27,8 +27,38 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 
 Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
 
-#### 2020: NOV - 2021: FEB  
-Internet | Frontend | Haskell | Operating System | Git & Github | Databases | APIs
+#### 2020 NOV - 2021 MAR (First Batch)
+
+1. Internet
+2. Frontend
+3. Language
+4. Git and Github
+5. Programming (Structure and Interpretation of Computer Programs)
+6. Computer Architecture
+7. Algorithms and Data Structure
+8. Mathematics
+9. Haskell
+
+#### 2021 APR - JUN (Second Batch)
+
+1. Operating Systems
+2. Computer Networking
+3. Web Security
+4. Haskell
+
+#### 2021 JUL - SEPT (Third Batch)
+
+1. Databases
+2. Language and Compilers
+3. Distributed Systems
+4. Clojure
+
+#### Onwards or When I Can
+
+1. SEO
+2. Documentation
+3. Project Management
+4. Finance
 
 ---
 
@@ -62,16 +92,16 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | Haskell | 🤍 |
 | Clojure | 🔒 |
 | Scala | 🔒 |
-| 📔 **OPERATING SYSTEM** | 🔓 |
-| Linux Shell | 🤍 |
-| Operating Systems | 🤍 |
-| POSIX Basics | 🤍 |
-| Process Management | 🤍 |
-| Threads and Concurrency | 🤍 |
-| Memory Management | 🤍 |
-| Interprocess Communication | 🤍 |
-| I/O Management | 🤍 |
-| Network | 🤍 |
+| 📔 **OPERATING SYSTEM** | 🔒 |
+| Linux Shell | 🔒 |
+| Operating Systems | 🔒 |
+| POSIX Basics | 🔒 |
+| Process Management | 🔒 |
+| Threads and Concurrency | 🔒 |
+| Memory Management | 🔒 |
+| Interprocess Communication | 🔒 |
+| I/O Management | 🔒 |
+| Network | 🔒 |
 | 📔 **GIT & GITHUB** | 🔓 |
 | Git | 🤍 |
 | Version Control | 🤍 |
@@ -162,15 +192,15 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | **MATH for CS** | 🌘 |
 | Mathematics for Computer Science | 🤍 |
 | **OPERATING SYSTEMS** | 🌑 |
-| Operating Systems: Three Easy Pieces | 🤍 |
+| Operating Systems: Three Easy Pieces | 🔒 |
 | **COMPUTER NETWORKING** | 🌒 |
-| Computer Networking: A Top-Down Approach | 🤍 |
+| Computer Networking: A Top-Down Approach | 🔒 |
 | **DATABASES** | 🌓 |
-| Readings in Database Systems | 🤍 |
+| Readings in Database Systems | 🔒 |
 |  **LANGUAGES AND COMPILERS** | 🌔 |
-| Crafting Interpreters | 🤍 |
+| Crafting Interpreters | 🔒 |
 | **DISTRIBUTED SYSTEMS** | 🌕 |
-| Designing Data-Intensive Applications | 🤍 |
+| Designing Data-Intensive Applications | 🔒 |
 
 ### 📚 BOOKS
 
@@ -205,11 +235,22 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 
 ## 💻 COURSES
 
-| COURSES |  |
+| |  |
 | :--- | :---: |
 | Functional Programming with Haskell | 🤍 | 
 | The Odin Project | 🤍 | 
 | Teach Yourself CS | 🤍 |
+
+---
+
+## 🛠 PROJECTS
+
+I've decided to take on these projects in the future. One by one. There will be a documentation, of course, for each project and it shall contain the reason why I decided to make it (hint: they mean something to me).
+
+1. Portfolio Website
+2. Rental and Trading Website
+3. Budgeting
+4. Learning Website
 
 ---
 
