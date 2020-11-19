@@ -62,7 +62,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 ---
 
-**LEGENDS:** \
+**LEGENDS:** 
 🔓 Unlocked | 🔒 Locked \
 🤍 Yet to finish | 💚 Finished 
 
