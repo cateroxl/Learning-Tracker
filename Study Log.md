@@ -4,6 +4,12 @@
 
 ### NOVEMBER
 
+**19 NOV**
+I'm currently deciding on what foundations to study first while studying Haskell. I also started planning my first project.
+
+**18 NOV**
+I made changes and gathered other resources for my learning. I also read Practical Haskell.
+
 **17 NOV** \
 I continued watching more videos about the topics under the Internet Category.
 
