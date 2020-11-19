@@ -62,7 +62,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 ---
 
-**LEGENDS:** 
+**LEGENDS:** \
 🔓 Unlocked | 🔒 Locked \
 🤍 Yet to finish | 💚 Finished 
 
@@ -178,8 +178,6 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 ### COMPUTER SCIENCE
 
 Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.com/)
-
-**LEGENDS:** \
 
 |  |  |
 | :--- | :---: |
