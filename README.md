@@ -150,7 +150,6 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.com/)
 
 **LEGENDS:** \
-🍃 Might be changed
 
 |  |  |
 | :--- | :---: |
@@ -159,8 +158,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | **COMPUTER ARCHITECTURE** | 🌖 |
 | Computer Systems: A Programmer's Perspective | 🤍 |
 | **ALGORITHMS AND DATA STRUCTURES** | 🌗 |
-| 🍃 The Algorithm Design Manual | 🤍 |
-| Grokking Algorithms | 🤍 |
+| Algorithm Design with Haskell | 🤍 |
 | **MATH for CS** | 🌘 |
 | Mathematics for Computer Science | 🤍 |
 | **OPERATING SYSTEMS** | 🌑 |
