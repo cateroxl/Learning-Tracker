@@ -31,13 +31,12 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 1. Internet
 2. Frontend
-3. Language
+3. Language - Haskell
 4. Git and Github
 5. Programming (Structure and Interpretation of Computer Programs)
 6. Computer Architecture
 7. Algorithms and Data Structure
 8. Mathematics
-9. Haskell
 
 #### 2021 APR - JUN (Second Batch)
 
