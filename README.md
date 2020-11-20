@@ -36,10 +36,10 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 2. Frontend 💜
 3. Haskell 💜 ([Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads) | [Practical Haskell](https://www.apress.com/gp/book/9781484244791))
 4. Git and Github 💙
-5. Structure and Interpretation of Computer Programs 🧡
-6. Computer Architecture 💙
-7. Algorithms and Data Structure 🧡
-8. Mathematics 💙
+5. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871))
+6. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems))
+7. Algorithms and Data Structure 🧡 ([Haskell - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PL3pGy4HtqwD2-bYXI3_4LWQyafXp4-olc))
+8. Mathematics 💙 ([Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025))
 
 #### 2021 APR - JUN (Second Batch)
 
@@ -184,13 +184,15 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 |  |  |
 | :--- | :---: |
 | **PROGRAMMING** | 🌕 |
-| Structure and Interpretation of Computer Programs | 🤍 | 
+| [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) | 🤍 | 
 | **COMPUTER ARCHITECTURE** | 🌖 |
-| Computer Systems: A Programmer's Perspective | 🤍 |
+| [Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | 🤍 |
+| [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) | 🤍 |
 | **ALGORITHMS AND DATA STRUCTURES** | 🌗 |
 | Algorithm Design with Haskell | 🤍 |
+| [Haskell - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PL3pGy4HtqwD2-bYXI3_4LWQyafXp4-olc) | 🤍 |
 | **MATH for CS** | 🌘 |
-| Mathematics for Computer Science | 🤍 |
+| [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) | 🤍 |
 | **OPERATING SYSTEMS** | 🌑 |
 | Operating Systems: Three Easy Pieces | 🔒 |
 | **COMPUTER NETWORKING** | 🌒 |
