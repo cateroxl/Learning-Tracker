@@ -29,14 +29,17 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 #### 2020 NOV - 2021 MAR (First Batch)
 
-1. Internet
-2. Frontend
-3. Language - Haskell
-4. Git and Github
-5. Programming (Structure and Interpretation of Computer Programs)
-6. Computer Architecture
-7. Algorithms and Data Structure
-8. Mathematics
+**LEGENDS:** \
+🧡 MWF | 💙 TThS | 💜 Daily
+
+1. Internet 🧡
+2. Frontend 💜
+3. Haskell 💜 ([Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads) | [Practical Haskell](https://www.apress.com/gp/book/9781484244791))
+4. Git and Github 💙
+5. Structure and Interpretation of Computer Programs 🧡
+6. Computer Architecture 💙
+7. Algorithms and Data Structure 🧡
+8. Mathematics 💙
 
 #### 2021 APR - JUN (Second Batch)
 
