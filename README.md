@@ -27,10 +27,10 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 
 Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
 
-#### 2020 NOV - 2021 MAR (First Batch)
-
 **LEGENDS:** \
 🧡 MWF | 💙 TThS | 💜 Daily
+
+#### 2020 NOV - 2021 MAR (First Batch)
 
 1. Internet 🧡
 2. Frontend 💜
@@ -249,7 +249,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 
 I've decided to take on these projects in the future. One by one. There will be a documentation, of course, for each project and it shall contain the reason why I decided to make it (hint: they mean something to me).
 
-1. Portfolio Website
+1. [Portfolio Website](https://github.com/users/cateroxl/projects/1)
 2. Rental and Trading Website
 3. Budgeting
 4. Learning Website
