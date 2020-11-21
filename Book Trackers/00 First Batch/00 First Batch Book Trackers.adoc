@@ -1,0 +1,94 @@
+= FIRST BATCH BOOK TRACKER✨
+
+**Legend:** +
+🧡 MWF | 💙 TThS | 💜 Daily | ❤️ Sunday +
+🤍 Unfinished | 💚 Finished
+
+=== 💜 Haskell
+**Practical Haskell** +
+🤍 Chapter 01: Going Functional +
+🤍 Chapter 02: Declaring the Data Model +
+🤍 Chapter 03: Increasing Code Rreuse +
+🤍 Chapter 04: Using Containers and Type Classes +
+🤍 Chapter 05: Laziness an Infinite Structures +
+🤍 Chapter 06: Knowing Your Clients Using Monads
+
+=== 💜 Frontend
+🤍 HTML +
+🤍 CSS +
+🤍 JavaScript +
+🤍 PureScript 
+
+---
+
+=== 🧡 Structure and Interpretation of Computer Programs
+💚 Building Abstraction with Procedures +
+🤍 Buidling Abstractions with Data +
+🤍 Modularity, Objects, and State +
+🤍 Metalinguistic Abstraction +
+🤍 Computing with Register Machines
+
+=== 🧡 Algorithms and Data Structures
+---
+
+=== 💙 Git and Github
+🤍 Git +
+🤍 Version Control +
+🤍 Github
+
+=== 💙 Code
+💚 Chapter 01: Best Friends +
+💚 Chapter 02: Codes and Combinations +
+💚 Chapter 03: Braille and Binary Codes +
+🤍 Chapter 04: Anatomy of a Flashlight +
+🤍 Chapter 05: Seeing Around COrners +
+🤍 Chapter 06: Telegraphs and Relays +
+🤍 Chapter 07: Our Ten Digits +
+🤍 Chapter 08: Alternatives to Ten +
+🤍 Chapter 09: Bit by Bit by Bit +
+🤍 Chapter 10: Logic and Switches +
+🤍 Chapter 11: Gates (Not Bill) +
+🤍 Chapter 12: A Binary Adding Machine +
+🤍 Chapter 13: But What About Subtraction +
+🤍 Chapter 14: Feedback and Flip-Flops +
+🤍 Chapter 15: Bytes and Hex +
+🤍 Chapter 16: An Assemblage of Memory +
+🤍 Chapter 17: Automation +
+🤍 Chapter 18: From Abaci to Chips +
+🤍 Chapter 19: Two Classic Microprocessors +
+🤍 Chapter 20: ASCII and a Cast of Characters +
+🤍 Chapter 21: Get on the Bus +
+🤍 Chapter 22: The Operating System +
+🤍 Chapter 23: Fixed Point, Floating Point +
+🤍 Chapter 24: Languages High and Low +
+🤍 Chapter 25: The Graphical Revolution
+
+=== 💙 The Elements of Computing Systems
+🤍 Boolean Logic +
+🤍 Boolean Arithmetic +
+🤍 Sequential Logic +
+🤍 Machine Language +
+🤍 Computer Architecture +
+🤍 Assembler +
+🤍 Virtual Machine I: Stack Arithmetic +
+🤍 Virtual Machine II: Program Control +
+🤍 High-Level Language +
+🤍 Compiler I: Syntax Analysis +
+🤍 Compiler II: Code Generation +
+🤍 Operating System +
+🤍 Postscript: More Fun to Go +
+
+=== 💙 Concrete Mathematics
+🤍 01 Recurrent Problems +
+🤍 02 Sums +
+🤍 03 Integer Functions +
+🤍 04 Number Theory +
+🤍 05 Binomial Coefficients +
+🤍 06 Special Numbers +
+🤍 07 Generating Functions +
+🤍 08 Discrete Probability +
+🤍 09 Asymptotics
+
+---
+
+=== ❤️ Soon
