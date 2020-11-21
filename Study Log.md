@@ -4,6 +4,14 @@
 
 ### NOVEMBER
 
+**21 Nov** 
+
+Removed some books according to the reviews. And determined which I should study. Decided that I have to study mathematics and some other topics through youtube. Some topics are better with a mentor.
+
+**20 Nov**
+
+Studied Practical Haskell. Wrote the weekly and daily schedule for my studies for the first batch.
+
 **19 NOV**
 I'm currently deciding on what foundations to study first while studying Haskell. I also started planning my first project.
 
