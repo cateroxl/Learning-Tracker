@@ -223,15 +223,10 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | NixOS | 🔒 |
 | **OTHER WORKS** | 🔓 |
 | Domain Modeling Made Functional | 🔒 |
-| The Pragmatic Programmer | 🔒 |
-| Making Software | 🔒 |
-| The Secret Life of Programs | 🔒 |
-| Refactoring: Improving the Design of Existing Code | 🔒 |
-| How to Design Programs | 🔒 |
-| Design of Everyday Things | 🔒 |
-| Thinkertoys | 🔒 |
-| How to Read a Book | 🤍 |
+| Starting Out with Programming Logic and Design | 🔒 |
 | The Art of Computer Programming | 🔒 |
+| [Review Link](https://news.ycombinator.com/item?id=6852619) | 🤍 |
+| Rescursive Programming Techniques | 🤍 |
 
 ---
 
