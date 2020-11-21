@@ -105,7 +105,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | I/O Management | 🔒 |
 | Network | 🔒 |
 | 📔 **GIT & GITHUB** | 🔓 |
-| Git | 🤍 |
+| Git | 💚 |
 | Version Control | 🤍 |
 | Github | 🤍 |
 | 📔 **DATABASES** | 🔒 |
