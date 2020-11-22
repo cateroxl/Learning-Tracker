@@ -34,7 +34,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 1. Internet 🧡
 2. Frontend 💜
-3. Haskell 💜 ([Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads) | [Practical Haskell](https://www.apress.com/gp/book/9781484244791))
+3. Haskell 💜 ([Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads) | [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/))
 4. Git and Github 💙
 5. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871))
 6. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems))
@@ -210,7 +210,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | :--- | :---: |
 | **FUNCTIONAL PROGRAMMING** | 🔓 |
 | Grokking Simplicity | 🤍 | 
-| A Type of Programming | 🤍 | 
+| [A Type of Programming](https://atypeofprogramming.com/) | 🤍 | 
 | **HASKELL** | 🔓 |  
 | Practical Haskell | 🤍 |
 | Book of Monads | 🔒 | 
