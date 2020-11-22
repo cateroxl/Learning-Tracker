@@ -1,7 +1,7 @@
 = FIRST BATCH BOOK TRACKER✨
 
 **Legend:** +
-🧡 MWF | 💙 TThS | 💜 Daily | ❤️ Sunday +
+🧡 MWF | 💙 TThS | 💜 Daily | ❤️ Special +
 🤍 Unfinished | 💚 Finished
 
 === 💜 Haskell
@@ -20,6 +20,22 @@
 🤍 PureScript 
 
 ---
+
+=== 🧡 Grokking Simplicity
+
+💚 Chapter 01. Welcome to the Grokking Simplicity +
+💚 Chapter 02. Functional thinking in action +
+💚 Chapter 03. Distinguishing actions, calculations, and data +
+🤍 Chapter 04. Extracting calculations from action +
+🤍 Chapter 05. Improving the design of actions +
+🤍 Chapter 06. Staying immutable in a mutable language +
+🤍 Chapter 07. Staying immutable with untrusted code +
+🤍 Chapter 08. Stratified design part 1 +
+🤍 Chapter 09. Startified design part 2 +
+🤍 Chapter 10. First class functions part 1 +
+🤍 Chapter 11. First class functions part 2 +
+🤍 Chapter 12. Functional iteration +
+🤍 Chapter 13. Chaining functional tools +
 
 === 🧡 Structure and Interpretation of Computer Programs
 💚 Building Abstraction with Procedures +
@@ -91,4 +107,6 @@
 
 ---
 
-=== ❤️ Soon
+=== ❤️ Special
+
+link:https://atypeofprogramming.com/[**A Type of Programming**]
