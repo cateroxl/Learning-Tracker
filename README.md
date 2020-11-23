@@ -9,7 +9,7 @@ Some trackers will be made soon.
 🔹 [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md) \
 🔹 [Book Trackers](https://github.com/cateroxl/Learning-Tracker/tree/main/Book%20Trackers) \
 🔹 Course Trackers \
-🔹 Notes
+🔹 [Notes](https://github.com/cateroxl/Learning-Tracker/tree/main/Notes)
 
 ### GOALS
 
@@ -66,7 +66,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 **LEGENDS:** \
 🔓 Unlocked | 🔒 Locked \
-🤍 Yet to finish | 💚 Finished 
+🤍 Yet to finish | 💚 Finished \
 ✅ Complete
 
 ---
