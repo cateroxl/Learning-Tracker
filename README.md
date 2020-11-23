@@ -67,6 +67,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 **LEGENDS:** \
 🔓 Unlocked | 🔒 Locked \
 🤍 Yet to finish | 💚 Finished 
+✅ Complete
 
 ---
 
@@ -78,7 +79,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 
 |  |  |
 | :--- | :---: |
-| 📔 [**INTERNET**](https://www.youtube.com/watch?v=9hIQjrMHTv4&list=PLBMwztcziEsmp6JRVubOZKa0IbQdV63Eh) | 🔓 |
+| 📔 [**INTERNET**](https://www.youtube.com/watch?v=9hIQjrMHTv4&list=PLBMwztcziEsmp6JRVubOZKa0IbQdV63Eh) | ✅ |
 | Internet | 💚 | 
 | The Web | 💚 | 
 | DNS | 💚 |  
