@@ -4,6 +4,14 @@
 
 ### NOVEMBER
 
+**23 Nov**
+
+Studied first chapter of SICP again, and attempted to answer exercises. I made notes for it too. I read up to the 17th chapter of the book atop. Did look up Data Structures nad Algorithms for Functional Programming (Haskell). 
+
+**22 Nov**
+
+Read the first few pages of atop. And changed some of my schedules and books. Reviewed the topics I've studied from The Odin Project.
+
 **21 Nov** 
 
 Removed some books according to the reviews. And determined which I should study. Decided that I have to study mathematics and some other topics through youtube. Some topics are better with a mentor.
