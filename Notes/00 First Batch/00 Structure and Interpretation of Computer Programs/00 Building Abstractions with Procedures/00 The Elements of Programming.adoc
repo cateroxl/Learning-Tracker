@@ -1,0 +1,121 @@
+= The Elements of Programming
+
+_“A computational process is indeed much like a sorcerer’s idea of aspirit. It cannot be seen or touched. It is not composed of maer at all.However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory. e programs we use to conjure processes are like a sorcerer’s spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform._
+
+_A computational process, in a correctly working computer, executes programs precisely and accurately. us, like the sorcerer’s appren-tice, novice programmers must learn to understand and to anticipate the consequences of their conjuring. Even small errors (usually called bugs or glitches) in programs can have complex and unanticipated consequences.”_
+
+== Notes
+
+* In programming, we deal with two kinds of elements: **procedures** and **data**.
+* **Procedures.** The descriptions of rules for manipulating data.
+* **Data.** The “stuff” that we want to manipulate.
+
+==== Expressions
+
+* **Expressions.** Any legal combination of symbols that represents a value.
+** **Primitive expression:** 1
+** **Expression representing primitive procedure:** +
+** **Compound expression:** 1 + 1
+
+* **Combinations.** A **list of expressions within parentheses** in order to denote procedure application. _Example: (1 + 1)_
+** Its value is obtained by applying the procedure specified by the operator (+) to the arguments that are the values of the operands (1 and 1).
+** Operator: 
+*** **Infix** notation: 1 + 1 (Operator in the middle)
+*** **Prefix** notation: + 1 1 (Operator in the leftmost; no ambiguity can arise)
+
+==== Naming and the Environment
+
+* A critical aspect of a programming language is the means it provides for using names to refer to computational objects; the names identifies a variable whose value is the object. It’s a language’s simplest means of abstraction.
+* In general, computation objects may have very complex structures; it would be extremely inconvenient to have to remember and repeat their details each time we watn to use them.
+* It should be clear that the possibility of associating values with sym-bols and later retrieving them means that the interpreter must maintain some sort of memory that keeps track of the name-object pairs. Its memory is called the global environment.
+
+==== Evaluating Combinations
+
+* Evaluation rule is recursive in nature; that is, it includes, as one of its steps, the need to invoke rule itself.
+* Recursion is a very powerful technique for dealing with hierarchical, treelike objects.
+* The general notion of the environment as providing a context in which evaluation takes place will play an important role in our understanding of program execution.
+
+==== Compound Procedures
+
+* **Numbers and arithmetic operations** _are primitive data and procedures._
+* **Nesting of combinations** _provides a means of combining operations._
+* **Definitions that associate names with values** _provide a limited means of abstractions._
+
+* **Procedure definitions.** A much more powerful abstraction technique by which a compound operation can be given a name and then referred to as a unit.
+* **Compound procedures.** (define (square x) ( * x x))
+
+==== The Substitution Model for Procedure Application
+
+**Applicative order versus Normal Order** 
+
+* **Applicative-order evaluation.** “Evaluate the arguments and then apply”.
+* **Normal-order evaluation.** “Fully expand and then reduce”.
+
+==== Conditional Expressions and Predicates
+
+* The general form of conditional expression is consisting of the symbol `cond` followed by the parenthesized pairs of expressions called **clauses**. The first expression in each pair is a predicate (an expression whose value is interpreted as either true or false).
+* **Conditional expressions are evaluated as follows:** The first predicate is evaluated first; if its value is false, the next predicate is evaluated. It goes on until a predicate whose value is true is found, in which case the interpreter returns the value of the corresponding consequent expression of the clase as the value of the conditional expression. If none of the predicates is found to be true, the value of the cond is undefined.
+
+== Exercises
+
+==== Exercise 1.1
+
+_Below is a sequence of expressions. What isthe result printed by the interpreter in response to each ex-pression?_
+
+|===
+| Expressions | Results
+
+| 10
+| 10
+
+| (+ 5 3 4)
+| 12
+
+| (- 9 1)
+| 8
+
+| (/ 6 2)
+| 3
+
+| (+ (* 2 4) (- 4 6))
+| 10
+
+| (define a 3)
+| a = 3 
+
+| (define b (+ a 1))
+| b = 4
+
+| (+ a b (* a b))
+| 19
+
+| (= a b)
+| false
+
+| (if (and (> b a) (< b (* a b))) b a)
+| TBA
+
+| (cond ((= a 4) 6)
+        ((= b 4) (+ 6 7 a))
+        (else 25))
+| 25 (?)
+
+| (+ 2 (if (> b a) b a))
+| TBA
+
+| (* (cond ((> a b ) a)
+           ((< a b) b )
+           (else -1))
+     (+ a 1))
+| TBA
+
+
+
+
+
+|===
+
+
+
+
+
