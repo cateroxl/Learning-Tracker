@@ -6,7 +6,7 @@
 
 === 💜 Haskell
 **Practical Haskell** +
-🤍 Chapter 01: Going Functional +
+💚 Chapter 01: Going Functional +
 🤍 Chapter 02: Declaring the Data Model +
 🤍 Chapter 03: Increasing Code Rreuse +
 🤍 Chapter 04: Using Containers and Type Classes +
@@ -48,7 +48,7 @@
 ---
 
 === 💙 Git and Github
-🤍 Git +
+💚 Git +
 🤍 Version Control +
 🤍 Github
 
@@ -109,4 +109,5 @@
 
 === ❤️ Special
 
-link:https://atypeofprogramming.com/[**A Type of Programming**]
+link:https://atypeofprogramming.com/[**A Type of Programming**] +
+💚 Chapter 1-17
