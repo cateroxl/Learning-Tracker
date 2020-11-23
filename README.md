@@ -85,11 +85,12 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | DHCP | 💚 |
 | [Browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) | 💚 |
 | Hosting | 💚 | 
-| HTTP | 🤍 | 
+| HTTP | 💚 | 
 | 📔 **FRONTEND** | 🔓 |
 | HTML | 🤍 |
 | CSS | 🤍 |
 | JavaScript | 🤍 |
+| Purescript | 🤍 |
 | 📔 **LANGUAGE** | 🔓 |
 | Haskell | 🤍 |
 | Clojure | 🔒 |
