@@ -4,6 +4,14 @@
 
 ### NOVEMBER
 
+**25 Nov**
+
+Decided on what freelance work to do in the near future. Will resume studying tomorrow.
+
+**24 Nov**
+
+Rested. Planned for possible freelance work.
+
 **23 Nov**
 
 Studied first chapter of SICP again, and attempted to answer exercises. I made notes for it too. I read up to the 17th chapter of the book atop. Did look up Data Structures nad Algorithms for Functional Programming (Haskell). 
