@@ -4,6 +4,10 @@
 
 ### NOVEMBER
 
+**26 Nov**
+
+Learning Git through https://learngitbranching.js.org/, up until Moving Around: Cherry-pick Intro. Did some tweaking in calendar and resources too.
+
 **25 Nov**
 
 Decided on what freelance work to do in the near future. Will resume studying tomorrow.
