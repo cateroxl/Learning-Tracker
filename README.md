@@ -30,37 +30,33 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 **LEGENDS:** \
 🧡 MWF | 💙 TThS | 💜 Daily
 
-#### 2020 NOV - 2021 MAR (First Batch)
+#### 2020 DEC - 2021 FEB (First Batch)
 
-1. Internet 🧡
-2. Frontend 💜
-3. Haskell 💜 ([Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads) | [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/))
-4. Git and Github 💙
+1. ~Internet~
+2. Frontend 💜 (Solid HTML | (After: CSS))
+3. Haskell 💜 ( [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/) | (Afterwards: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads)))
+4. Git and Github 💜 (Git | (After: Version Control | Github))
 5. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871))
-6. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems))
+6. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems)))
 7. Algorithms and Data Structure 🧡 ([Haskell - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PL3pGy4HtqwD2-bYXI3_4LWQyafXp4-olc))
 8. Mathematics 💙 ([Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025))
 
-#### 2021 APR - JUN (Second Batch)
+#### 2021 MAR - MAY (Second Batch)
 
 1. Operating Systems
 2. Computer Networking
 3. Web Security
 4. Haskell
 
-#### 2021 JUL - SEPT (Third Batch)
+#### 2021 JUN - AUG (Third Batch)
 
 1. Databases
 2. Language and Compilers
-3. Distributed Systems
-4. Clojure
+3. Clojure
 
-#### Onwards or When I Can
+#### Onwards 
 
-1. SEO
-2. Documentation
-3. Project Management
-4. Finance
+1. Distributed Systems
 
 ---
 
@@ -95,7 +91,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | 📔 **LANGUAGE** | 🔓 |
 | Haskell | 🤍 |
 | Clojure | 🔒 |
-| Scala | 🔒 |
+| Scala (2022) | 🔒 | 
 | 📔 **OPERATING SYSTEM** | 🔒 |
 | Linux Shell | 🔒 |
 | Operating Systems | 🔒 |
@@ -147,7 +143,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | Functional Testing | 🔒 |
 | 📔 **CI/CD**  | 🔒 |
 | 📔 **Design & Development**  | 🔒 |
-| SOLID | 🔒 |
+| SOLID | 💚 |
 | KISS | 🔒 |
 | YAGNI | 🔒 |
 | DRY | 🔒 |
@@ -170,7 +166,6 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | 📔 **WEB SERVERS**  | 🔒 |
 | Apache | 🔒 |
 | Caddy | 🔒 |
-| MS IIS | 🔒 |
 | 📔 **BUILDING FOR SCALE**  | 🔒 |
 | Mitigation Strategies | 🔒 |
 | Migration Strategies | 🔒 |
@@ -225,10 +220,8 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | NixOS | 🔒 |
 | **OTHER WORKS** | 🔓 |
 | Domain Modeling Made Functional | 🔒 |
-| Starting Out with Programming Logic and Design | 🔒 |
 | The Art of Computer Programming | 🔒 |
 | [Review Link](https://news.ycombinator.com/item?id=6852619) | 🤍 |
-| Rescursive Programming Techniques | 🤍 |
 
 ---
 
