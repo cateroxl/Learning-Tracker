@@ -210,7 +210,6 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | [A Type of Programming](https://atypeofprogramming.com/) | 🤍 | 
 | **HASKELL** | 🔓 |  
 | Practical Haskell | 🤍 |
-| Book of Monads | 🔒 | 
 | Algorithm Design with Haskell | 🔒 |
 | Parallel and Concurrent Programming in Haskell | 🔒 |
 | Thinking With Types | 🔒 |
