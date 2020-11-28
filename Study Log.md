@@ -4,6 +4,14 @@
 
 ### NOVEMBER
 
+**28 Nov**
+
+Reading Haskell 2010 Report! :) And what I wish I knew when I was learning Haskell
+
+**27 Nov**
+
+Installed NixOs yesterday.
+
 **26 Nov**
 
 Learning Git through https://learngitbranching.js.org/, up until Moving Around: Cherry-pick Intro. Did some tweaking in calendar and resources too.
