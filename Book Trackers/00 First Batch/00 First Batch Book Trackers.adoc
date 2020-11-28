@@ -39,7 +39,7 @@
 
 === 🧡 Structure and Interpretation of Computer Programs
 💚 Building Abstraction with Procedures +
-🤍 Buidling Abstractions with Data +
+🤍 Building Abstractions with Data +
 🤍 Modularity, Objects, and State +
 🤍 Metalinguistic Abstraction +
 🤍 Computing with Register Machines
@@ -111,3 +111,4 @@
 
 link:https://atypeofprogramming.com/[**A Type of Programming**] +
 💚 Chapter 1-17
+
