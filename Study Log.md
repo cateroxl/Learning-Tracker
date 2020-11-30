@@ -4,6 +4,10 @@
 
 ### NOVEMBER
 
+**29 Nov**
+
+I did my first attempt on pull request which I closed an hour later. HAHAHA! Then I tweeted about wanting to contribute to Open Source Projects through editing and proofreading to sharpen my technical reading and writing skills.
+
 **28 Nov**
 
 Reading Haskell 2010 Report! :) And what I wish I knew when I was learning Haskell
