@@ -2,7 +2,17 @@
 
 ## 2020
 
+### DECEMBER
+
+**01 Dec**
+
+Still in the process of installing Pijul. Solved first puzzle of Day 1 of AoC 2020.
+
 ### NOVEMBER
+
+**30 Nov**
+
+Attempted to install Pijul. Solved Day 1 puzzle of AoC 2015 using Google Docs.
 
 **29 Nov**
 
