@@ -39,7 +39,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 #### Math
 
-1. **2020 DEC:** 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) & [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) | 💙 [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/) & [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) 
+1. **2020 DEC:** 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) & [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) | 💙 [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/) | 🔒 [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) 
 2. **2021 JAN:** [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) & [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)  
 3. **2021 FEB:** [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) & [Discrete Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
 4. Other options: [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) or [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) | [More Info](https://www.neilwithdata.com/mathematics-self-learner))
