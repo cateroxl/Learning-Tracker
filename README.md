@@ -14,7 +14,7 @@ Some trackers will be made soon.
 ### GOALS
 
 [ ] Get a functional programming job in early 2022. \
-[ ] Complete or have at least 3 projects. \
+[ ] Complete or have at least 2 projects. \
 [ ] Contribute to Open Source Projects. 
 
 ### STUDY ROUTINE
@@ -30,23 +30,28 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 **LEGENDS:** \
 🧡 MWF | 💙 TThS | 💜 Daily
 
+#### Special (I'll be contributing to the Documentation):
+
+1. Pijul ([Pijul: Sane Version Control](https://www.youtube.com/watch?v=o0ooKVikV3c) | [Pijul Manual](https://pijul.org/manual/introduction.html))
+2. NixOS ([NixOS](https://www.youtube.com/watch?v=yp3Iu4Cpfyk) | [Intro to Nix](https://www.youtube.com/watch?v=D5Gq2wkRXpU) | [home-manager](https://www.youtube.com/watch?v=OgUvDXxHlLs))
+3. Prolog ([SWI-Prolog](https://www.swi-prolog.org/))
+4. Haskell 💜 ( [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/) | (Afterwards: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads)))
+
 #### 2020 DEC - 2021 FEB (First Batch)
 
 1. ~Internet~
 2. Frontend 💜 (Solid HTML | (After: CSS))
-3. Haskell 💜 ( [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/) | (Afterwards: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads)))
-4. Git and Github 💜 (Git | (After: Version Control | Github))
-5. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871))
-6. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems)))
-7. Algorithms and Data Structure 🧡 ([Haskell - Data Structures and Algorithms](https://www.youtube.com/playlist?list=PL3pGy4HtqwD2-bYXI3_4LWQyafXp4-olc))
-8. Mathematics 💙 ([Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025))
+3. Git and Github 💜 (Git | (After: Version Control | Github))
+4. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0))
+5. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
+6. Algorithms and Data Structure 🧡 ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
+7. Mathematics 💙 ([Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) or [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B))
 
 #### 2021 MAR - MAY (Second Batch)
 
 1. Operating Systems
 2. Computer Networking
 3. Web Security
-4. Haskell
 
 #### 2021 JUN - AUG (Third Batch)
 
@@ -103,7 +108,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | I/O Management | 🔒 |
 | Network | 🔒 |
 | 📔 **GIT & GITHUB** | 🔓 |
-| Git | 💚 |
+| Git | 🤍 |
 | Version Control | 🤍 |
 | Github | 🤍 |
 | 📔 **DATABASES** | 🔒 |
@@ -216,7 +221,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | Functional Design and Architecture in Haskell | 🔒 |
 | **LINUX** | 🔓 |
 | The Linux Command Line | 🤍 | 
-| NixOS | 🔒 |
+| NixOS | 🤍 |
 | **OTHER WORKS** | 🔓 |
 | Domain Modeling Made Functional | 🔒 |
 | The Art of Computer Programming | 🔒 |
@@ -240,8 +245,7 @@ I've decided to take on these projects in the future. One by one. There will be 
 
 1. [Portfolio Website](https://github.com/users/cateroxl/projects/1)
 2. Rental and Trading Website
-3. Budgeting
-4. Learning Website
+3. Learning Website
 
 ---
 
