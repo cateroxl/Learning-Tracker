@@ -4,6 +4,10 @@
 
 ### DECEMBER
 
+**02 Dec**
+
+Finally able to install pijul with the help of the author. He's very patient and kind. Also installed the prerequisites of swi-prolog. I finished reading two stars of Advent of Haskell. And then solved the second puzzle of Day 1 of AoC 2020. 
+
 **01 Dec**
 
 Still in the process of installing Pijul. Solved first puzzle of Day 1 of AoC 2020.
