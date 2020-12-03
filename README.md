@@ -23,6 +23,35 @@ I plan to study for a little more than a year. I believe this to be a great inve
 
 Each day for ~9 hours, I'm going to read chapters of books and watch videos while making sure that I'm having fun. If I get tired, I'll take a break. I'll be taking down notes and also review during the weekends. 
 
+**2020 DECEMBER**
+
+**MON to SAT** \
+09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH
+11:00 - 13:30 -> The Art of Problem Solving: Prealgebra (MWF) | Euclid's Elements (TThS) \
+14:00 - 15:00 -> A Type Of Programming
+15:20 - 17:20 -> Basic Mathematics (MWF) | Euclid's Elements (TThS)
+17:20 - 18:00 -> NixOS
+18:00 - 19:30 -> DINNER & HOME STUFF
+19:40 - 20:40 -> Pijul
+21:00 - 22:00 -> SWI-Prolog
+22:00 - 23:00 -> Practical Haskell
+23:00 - 00:00 -> Journal
+00:00 - 01:00 -> Plans for Blog & HOME STUFF
+01:00 ~       -> SLEEP
+
+**SUN**
+09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH
+11:00 - 13:00 -> Math Exercises
+14:00 - 15:00 -> HOME STUFF
+15:00 - 17:00 -> Math Exercises
+17:00 - 18:00 -> NixOS/ Linux Commandline
+18:00 - 19:30 -> DINNER & HOME STUFF
+20:00 - 21:00 -> Haskell 
+21:00 - 23:00 -> FREE TIME!!
+23:00 - 00:00 -> Journal
+00:00 - 01:00 -> Plans & HOME STUFF
+01:00 -       -> SLEEP
+
 ### CALENDAR
 
 Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
