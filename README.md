@@ -49,7 +49,7 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 1. ~Internet~
 2. Frontend 🔒 (Solid HTML | (After: CSS))
 3. Git and Github (Git | (After: Version Control | Github))
-4. (After #1 Math) Programming 🔒 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) | (After/Alternative: [Concepts, Techniques, and Models of Computer Programming])
+4. (After #1 Math) Programming 🔒 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) | (After/Alternative: [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695))
 5. (After #1 Math) Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
 6. (After #1 Math) Algorithms and Data Structure 🔒 ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
 
