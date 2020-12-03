@@ -28,24 +28,30 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
 
 **LEGENDS:** \
-🧡 MWF | 💙 TThS | 💜 Daily
+🧡 MWF | 💙 TThS | 💜 Daily | 🔒 Not yet
 
 #### Special (I'll be contributing to the Documentation):
 
 1. Pijul ([Pijul: Sane Version Control](https://www.youtube.com/watch?v=o0ooKVikV3c) | [Pijul Manual](https://pijul.org/manual/introduction.html))
-2. NixOS ([NixOS](https://www.youtube.com/watch?v=yp3Iu4Cpfyk) | [Intro to Nix](https://www.youtube.com/watch?v=D5Gq2wkRXpU) | [home-manager](https://www.youtube.com/watch?v=OgUvDXxHlLs))
+2. NixOS 💜 ([NixOS](https://www.youtube.com/watch?v=yp3Iu4Cpfyk) | [Intro to Nix](https://www.youtube.com/watch?v=D5Gq2wkRXpU) | [home-manager](https://www.youtube.com/watch?v=OgUvDXxHlLs))
 3. Prolog ([SWI-Prolog](https://www.swi-prolog.org/))
 4. Haskell 💜 ( [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/) | (Afterwards: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads)))
 
-#### 2020 DEC - 2021 FEB (First Batch)
+#### Math
+
+1. **2020 DEC:** [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) & [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) 
+2. **2021 JAN:** [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) & [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)  
+3. **2021 FEB:** [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) & [Discrete Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
+4. Other options: [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) or [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) | [More Info](https://www.neilwithdata.com/mathematics-self-learner))
+
+#### 2020 JAN - 2021 FEB (First Batch)
 
 1. ~Internet~
-2. Frontend 💜 (Solid HTML | (After: CSS))
-3. Git and Github 💜 (Git | (After: Version Control | Github))
-4. Programming 🧡 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0))
-5. Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
-6. Algorithms and Data Structure 🧡 ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
-7. Mathematics 💙 ([Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) or [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B))
+2. Frontend 🔒 (Solid HTML | (After: CSS))
+3. Git and Github (Git | (After: Version Control | Github))
+4. (After #1 Math) Programming 🔒 ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) | (After/Alternative: [Concepts, Techniques, and Models of Computer Programming])
+5. (After #1 Math) Computer Architecture 💙 ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
+6. (After #1 Math) Algorithms and Data Structure 🔒 ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
 
 #### 2021 MAR - MAY (Second Batch)
 
