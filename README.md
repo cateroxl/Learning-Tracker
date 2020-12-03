@@ -25,31 +25,33 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 
 **2020 DECEMBER**
 
-**MON to SAT** \
-09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH
-11:00 - 13:30 -> The Art of Problem Solving: Prealgebra (MWF) | Euclid's Elements (TThS) \
-14:00 - 15:00 -> A Type Of Programming
-15:20 - 17:20 -> Basic Mathematics (MWF) | Euclid's Elements (TThS)
-17:20 - 18:00 -> NixOS
-18:00 - 19:30 -> DINNER & HOME STUFF
-19:40 - 20:40 -> Pijul
-21:00 - 22:00 -> SWI-Prolog
-22:00 - 23:00 -> Practical Haskell
-23:00 - 00:00 -> Journal
-00:00 - 01:00 -> Plans for Blog & HOME STUFF
-01:00 ~       -> SLEEP
+This is my ideal schedule and I will do what I can to follow this as much as I can.
 
-**SUN**
-09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH
-11:00 - 13:00 -> Math Exercises
-14:00 - 15:00 -> HOME STUFF
-15:00 - 17:00 -> Math Exercises
-17:00 - 18:00 -> NixOS/ Linux Commandline
-18:00 - 19:30 -> DINNER & HOME STUFF
-20:00 - 21:00 -> Haskell 
-21:00 - 23:00 -> FREE TIME!!
-23:00 - 00:00 -> Journal
-00:00 - 01:00 -> Plans & HOME STUFF
+**MON to SAT** \
+09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH \
+11:00 - 13:30 -> The Art of Problem Solving: Prealgebra (MWF) | Euclid's Elements (TThS) \
+14:00 - 15:00 -> A Type Of Programming \
+15:20 - 17:20 -> Basic Mathematics (MWF) | Euclid's Elements (TThS) \
+17:20 - 18:00 -> NixOS \
+18:00 - 19:30 -> DINNER & HOME STUFF \
+19:40 - 20:40 -> Pijul \
+21:00 - 22:00 -> SWI-Prolog \
+22:00 - 23:00 -> Practical Haskell \
+23:00 - 00:00 -> Journal \
+00:00 - 01:00 -> Plans for Blog & HOME STUFF \
+01:00 ~       -> SLEEP 
+
+**SUN** \
+09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH \
+11:00 - 13:00 -> Math Exercises \
+14:00 - 15:00 -> HOME STUFF \
+15:00 - 17:00 -> Math Exercises \
+17:00 - 18:00 -> NixOS/ Linux Commandline \
+18:00 - 19:30 -> DINNER & HOME STUFF \
+20:00 - 21:00 -> Haskell \
+21:00 - 23:00 -> FREE TIME!! \
+23:00 - 00:00 -> Journal \
+00:00 - 01:00 -> Plans & HOME STUFF \
 01:00 -       -> SLEEP
 
 ### CALENDAR
