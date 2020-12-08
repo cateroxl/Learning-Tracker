@@ -4,6 +4,10 @@
 
 ### DECEMBER
 
+**07 Dec **
+
+Finished my website and uploaded one blog post!
+
 **06 Dec**
 
 I've been making my website!
