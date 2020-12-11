@@ -4,6 +4,14 @@
 
 ### DECEMBER
 
+**10 Dec**
+
+Studying Prealgebra
+
+**09 Dec**
+
+Studying Prealgebra
+
 **07 Dec **
 
 Finished my website and uploaded one blog post!
