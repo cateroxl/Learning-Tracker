@@ -28,31 +28,17 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 This is my ideal schedule and I will do what I can to follow this as much as I can.
 
 **MON to SAT** \
-09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH \
-11:00 - 13:30 -> The Art of Problem Solving: Prealgebra (MWF) | Euclid's Elements (TThS) \
-14:00 - 15:00 -> A Type Of Programming \
-15:20 - 17:20 -> Basic Mathematics (MWF) | Euclid's Elements (TThS) \
-17:20 - 18:00 -> NixOS \
-18:00 - 19:30 -> DINNER & HOME STUFF \
-19:40 - 20:40 -> Pijul \
-21:00 - 22:00 -> SWI-Prolog \
-22:00 - 23:00 -> Practical Haskell \
-23:00 - 00:00 -> Journal \
-00:00 - 01:00 -> Plans for Blog & HOME STUFF \
-01:00 ~       -> SLEEP 
 
-**SUN** \
-09:00 - 11:00 -> WAKING TIME, HOME STUFF & BRUNCH \
-11:00 - 13:00 -> Math Exercises \
-14:00 - 15:00 -> HOME STUFF \
-15:00 - 17:00 -> Math Exercises \
-17:00 - 18:00 -> NixOS/ Linux Commandline \
-18:00 - 19:30 -> DINNER & HOME STUFF \
-20:00 - 21:00 -> Haskell \
-21:00 - 23:00 -> FREE TIME!! \
-23:00 - 00:00 -> Journal \
-00:00 - 01:00 -> Plans & HOME STUFF \
-01:00 -       -> SLEEP
+3 hours -> The Art of Problem Solving: Prealgebra \
+2 hours -> HTML & CSS \
+1 hour -> Reading Code \
+1 hour -> Reading Haskell 
+
+**SUN**
+
+Do Math exercises \
+Review learnings \
+Write a blog post 
 
 ### CALENDAR
 
@@ -70,27 +56,30 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 #### Math
 
-1. **2020 DEC:** 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) & [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) | 💙 [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/) | 🔒 [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) 
-2. **2021 JAN:** [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) & [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)  
-3. **2021 FEB:** [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) & [Discrete Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
-4. Other options: [Concrete Mathematics](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) or [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) | [More Info](https://www.neilwithdata.com/mathematics-self-learner))
+1. **2020 DEC:** 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) & [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) | 💙 [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/) |  
+2. **2021 JAN:** 🔒 [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) | [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)  
+3. **2021 FEB:** [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
+4. **2021 MAR:** [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
+5. **2021 APR:** [Discrete Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
 
-#### 2020 JAN - 2021 FEB (First Batch)
+#### 2020 DEC - 2021 JAN
+1. HTML & CSS
+3. Haskell ([A Type of Programming](https://atypeofprogramming.com/))
+4. Computer Architecture ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2))
 
-1. ~Internet~
-2. Frontend (Solid HTML | (After: CSS))
-3. Git and Github (Git | (After: Version Control | Github))
-4. (After #1 Math) Programming ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) | (After/Alternative: [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695))
-5. (After #1 Math) Computer Architecture  ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2) | (After: [The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
-6. (After #1 Math) Algorithms and Data Structure ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
+#### 2021 FEB - MAR
 
-#### 2021 MAR - MAY (Second Batch)
+1. Programming ([Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) -> [Youtube Series](https://www.youtube.com/playlist?list=PLVFrD1dmDdvdvWFK8brOVNL7bKHpE-9w0) | (After/Alternative: [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/Concepts-Techniques-Models-Computer-Programming/dp/0262220695))
+2. Computer Architecture  ([The Elements of Computing Systems](https://mitpress.mit.edu/books/elements-computing-systems) -> [Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI) & [Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh), [Study Along](https://www.youtube.com/playlist?list=PLsgiGiSsE6jZD7SSSDaggWDvMKz-v9dsM)))
+3. Algorithms and Data Structure ([A Common-Sense Guide to Data Structures and Algorithms ](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/))
+
+#### 2021 APR - MAY 
 
 1. Operating Systems
 2. Computer Networking
 3. Web Security
 
-#### 2021 JUN - AUG (Third Batch)
+#### 2021 JUN - AUG 
 
 1. Databases
 2. Language and Compilers
