@@ -278,7 +278,7 @@ I've decided to take on these projects in the future. One by one. There will be 
 3. Learning Website
 
 **Ongoing Projects**
-1. [My Portfolio Website](cateroxl.github.io)
+1. [My Portfolio Website](http://cateroxl.github.io)
 ---
 
 ## 💜 You're welcome to fork this repository and make suggestions.
