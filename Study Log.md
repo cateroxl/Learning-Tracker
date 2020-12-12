@@ -4,6 +4,10 @@
 
 ### DECEMBER
 
+**11 Dec**
+
+I've been studying Prealgebra, addition and multiplication. Notes will be uploaded soon.
+
 **10 Dec**
 
 Studying Prealgebra
