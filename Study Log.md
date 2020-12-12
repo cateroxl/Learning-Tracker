@@ -4,6 +4,10 @@
 
 ### DECEMBER
 
+**12 Dec**
+
+Finished first section of Khan academy's Prealgebra course, and half-way done with the second section too. 
+
 **11 Dec**
 
 I've been studying Prealgebra, addition and multiplication. Notes will be uploaded soon.
