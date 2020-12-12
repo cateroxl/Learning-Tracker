@@ -27,6 +27,10 @@ Each day for ~9 hours, I'm going to read chapters of books and watch videos whil
 
 This is my ideal schedule and I will do what I can to follow this as much as I can.
 
+**MATH**
+1. [Khan Academy](https://www.khanacademy.org/math/pre-algebra)
+2. [Brilliant - Need a sponsor](https://brilliant.org/give-premium/message/annual/)
+
 **MON to SAT** \
 
 3 hours -> The Art of Problem Solving: Prealgebra \
