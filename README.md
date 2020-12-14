@@ -274,7 +274,7 @@ I've decided to take on these projects in the future. One by one. There will be 
 
 1. [Portfolio Website](https://github.com/users/cateroxl/projects/1)
 2. Rental and Trading Website
-3. Learning Website
+3. My business website
 
 **Ongoing Projects**
 1. [My Portfolio Website](http://cateroxl.github.io)
