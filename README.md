@@ -29,7 +29,6 @@ This is my ideal schedule and I will do what I can to follow this as much as I c
 
 **MATH**
 1. [Khan Academy](https://www.khanacademy.org/math/pre-algebra)
-2. [Brilliant - Need a sponsor](https://brilliant.org/give-premium/message/annual/)
 
 **MON to SAT** \
 
