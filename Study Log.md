@@ -4,6 +4,10 @@
 
 ### DECEMBER
 
+**14 Dec**
+
+Finished second section of Khan academy's Prealgebra course.
+
 **12 Dec**
 
 Finished first section of Khan academy's Prealgebra course, and half-way done with the second section too. 
