@@ -120,11 +120,10 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | 📔 **FRONTEND** | 🔓 |
 | HTML | 🤍 |
 | CSS | 🤍 |
-| Purescript | 🤍 |
+| Clojurescript | 🤍 |
 | 📔 **LANGUAGE** | 🔓 |
 | Haskell | 🤍 |
 | Clojure | 🔒 |
-| Scala | 🔒 | 
 | Elixir | 🔒 |
 | 📔 **OPERATING SYSTEM** | 🔒 |
 | Linux Shell | 🔒 |
