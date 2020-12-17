@@ -4,6 +4,18 @@
 
 ### DECEMBER
 
+**17 Dec**
+
+Relaxed today too! And studying will resume tomorrow (:
+
+**16 Dec**
+
+Been proofreading and mainly just relaxing (:
+
+**15 Dec**
+
+My brain needed rest, really couldn't understand anything even after several attempts of reading.
+
 **14 Dec**
 
 Finished second section of Khan academy's Prealgebra course.
