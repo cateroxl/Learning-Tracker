@@ -23,26 +23,6 @@ I plan to study for a little more than a year. I believe this to be a great inve
 
 Each day for ~9 hours, I'm going to read chapters of books and watch videos while making sure that I'm having fun. If I get tired, I'll take a break. I'll be taking down notes and also review during the weekends. 
 
-**2020 DECEMBER**
-
-This is my ideal schedule and I will do what I can to follow this as much as I can.
-
-**MATH**
-1. [Khan Academy](https://www.khanacademy.org/math/pre-algebra)
-
-**MON to SAT** \
-
-3 hours -> The Art of Problem Solving: Prealgebra \
-2 hours -> HTML & CSS \
-1 hour -> Reading Code \
-1 hour -> Reading Haskell 
-
-**SUN**
-
-Do Math exercises \
-Review learnings \
-Write a blog post 
-
 ### CALENDAR
 
 Schedule isn't strict. I learn as I go, and may end up studying topics which I've put on lock. I may or may not add more categories. It really depends on my pace.
@@ -59,14 +39,14 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 #### Math
 
-1. **2020 DEC:** 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) & [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb) | 💙 [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/) |  
-2. **2021 JAN:** 🔒 [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) | [Statistics](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)  
-3. **2021 FEB:** [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) 
-4. **2021 MAR:** [Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
-5. **2021 APR:** [Discrete Mathematics](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
+1. 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) 
+2. [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb)
+3. [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
 
-#### 2020 DEC - 2021 JAN
+
+#### 2021 JAN
 1. HTML & CSS
+2. [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) 
 3. Haskell ([A Type of Programming](https://atypeofprogramming.com/))
 4. Computer Architecture ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2))
 
@@ -120,7 +100,7 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | 📔 **FRONTEND** | 🔓 |
 | HTML | 🤍 |
 | CSS | 🤍 |
-| Clojurescript | 🤍 |
+| Not-sure-script | 🔒 |
 | 📔 **LANGUAGE** | 🔓 |
 | Haskell | 🤍 |
 | Clojure | 🔒 |
@@ -242,7 +222,7 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 | Grokking Simplicity | 🤍 | 
 | [A Type of Programming](https://atypeofprogramming.com/) | 🤍 | 
 | **HASKELL** | 🔓 |  
-| Practical Haskell | 🤍 |
+| Get Programming With Haskell | 🤍 |
 | Algorithm Design with Haskell | 🔒 |
 | Parallel and Concurrent Programming in Haskell | 🔒 |
 | Thinking With Types | 🔒 |
@@ -261,7 +241,6 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 
 | |  |
 | :--- | :---: |
-| Functional Programming with Haskell | 🤍 | 
 | The Odin Project | 🤍 | 
 | Teach Yourself CS | 🤍 |
 
