@@ -1,5 +1,13 @@
 # STUDY LOG
 
+## 2021
+
+### JANUARY
+
+**10 Jan**
+
+Started with HTML through [Interneting is hard](https://internetingishard.com) website.
+
 ## 2020
 
 ### DECEMBER
