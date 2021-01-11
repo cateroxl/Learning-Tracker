@@ -41,14 +41,12 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 
 1. 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) 
 2. [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb)
-3. [College Algebra](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
 
-
-#### 2021 JAN
-1. HTML & CSS
-2. [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) 
-3. Haskell ([A Type of Programming](https://atypeofprogramming.com/))
-4. Computer Architecture ([Code](https://www.amazon.com/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2))
+#### 2021 JAN - FEB
+1. [HTML & CSS](http://internetingishard.com)
+2. Foundations of Computer Science
+3. Haskell ([A Type of Programming](https://atypeofprogramming.com/)) | Get Programming With Haskell)
+4. Doom Emacs
 
 #### 2021 FEB - MAR
 
