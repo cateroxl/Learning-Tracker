@@ -4,6 +4,11 @@
 
 ### JANUARY
 
+**11 Jan**
+
+Finished 2 chapters of Get Programming With Haskell and Interneting is hard. Finished 1 Chapter of Foundations of Computer Science. \
+Installed Doom Emacs.
+
 **10 Jan**
 
 Started with HTML through [Interneting is hard](https://internetingishard.com) website.
