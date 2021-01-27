@@ -8,8 +8,6 @@ Some trackers will be made soon.
 
 🔹 [Study log](https://github.com/cateroxl/Learning-Tracker/blob/main/Study%20Log.md) \
 🔹 [Book Trackers](https://github.com/cateroxl/Learning-Tracker/tree/main/Book%20Trackers) \
-🔹 Course Trackers \
-🔹 [Notes](https://github.com/cateroxl/Learning-Tracker/tree/main/Notes)
 
 ### GOALS
 
@@ -35,18 +33,10 @@ Schedule isn't strict. I learn as I go, and may end up studying topics which I'v
 1. Pijul ([Pijul: Sane Version Control](https://www.youtube.com/watch?v=o0ooKVikV3c) | [Pijul Manual](https://pijul.org/manual/introduction.html))
 2. NixOS 💜 ([NixOS](https://www.youtube.com/watch?v=yp3Iu4Cpfyk) | [Intro to Nix](https://www.youtube.com/watch?v=D5Gq2wkRXpU) | [home-manager](https://www.youtube.com/watch?v=OgUvDXxHlLs))
 3. Prolog ([SWI-Prolog](https://www.swi-prolog.org/))
-4. Haskell 💜 ( [Practical Haskell](https://www.apress.com/gp/book/9781484244791) | [A Type of Programming](https://atypeofprogramming.com/) | (Afterwards: [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia) | [Monads](https://wiki.haskell.org/All_About_Monads)))
-
-#### Math
-
-1. 🧡 [The Art Of Problem Solving: Prealgebra](https://artofproblemsolving.com/store/item/prealgebra) -> [Videos](https://artofproblemsolving.com/videos/prealgebra) 
-2. [Basic Mathematics](https://www.youtube.com/playlist?list=PLMcpDl1Pr-viA25VUkHNmcUkWx9usPgyb)
 
 #### 2021 JAN - FEB
-1. [HTML & CSS](http://internetingishard.com)
-2. Foundations of Computer Science
-3. Haskell ([A Type of Programming](https://atypeofprogramming.com/)) | Get Programming With Haskell)
-4. Doom Emacs
+1. [HTML](http://internetingishard.com)
+2. Haskell ([A Type of Programming](https://atypeofprogramming.com/)) | Get Programming With Haskell)
 
 #### 2021 FEB - MAR
 
@@ -98,11 +88,10 @@ Based on Kamran Ahmed's [Developer Roadmap](https://github.com/kamranahmedse/dev
 | 📔 **FRONTEND** | 🔓 |
 | HTML | 🤍 |
 | CSS | 🤍 |
-| Not-sure-script | 🔒 |
+| CLojurescript | 🔒 |
 | 📔 **LANGUAGE** | 🔓 |
 | Haskell | 🤍 |
 | Clojure | 🔒 |
-| Elixir | 🔒 |
 | 📔 **OPERATING SYSTEM** | 🔒 |
 | Linux Shell | 🔒 |
 | Operating Systems | 🔒 |
@@ -239,7 +228,6 @@ Based on Oz Nova and Myles Byrne's [Teach Yourself CS](https://teachyourselfcs.c
 
 | |  |
 | :--- | :---: |
-| The Odin Project | 🤍 | 
 | Teach Yourself CS | 🤍 |
 
 ---
